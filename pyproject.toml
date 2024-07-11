@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pygleton"
-version = "1.0.0"
+version = "1.0.1"
 description = "Decorator for implementing singleton classes"
 authors = ["The Pragmatic Solutions <contact@thepragmatic.fi>"]
 readme = "README.md"
